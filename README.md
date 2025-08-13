@@ -79,18 +79,3 @@ sh
 Copy
 Edit
 flutter build apk --release
-The APK will be in:
-
-swift
-Copy
-Edit
-build/app/outputs/flutter-apk/app-release.apk
-🖼️ API Reference
-Picsum Photos API → https://picsum.photos/v2/list?page=1&limit=10
-
-📜 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
