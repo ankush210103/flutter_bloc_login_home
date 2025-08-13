@@ -1,0 +1,23 @@
+name: flutter_bloc_login_home
+description: Flutter login + home screen using BLoC and API integration
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  http: ^1.5.0
+  google_fonts: ^4.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
