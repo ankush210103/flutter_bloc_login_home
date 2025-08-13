@@ -94,16 +94,3 @@ This project is licensed under the MIT License.
 yaml
 Copy
 Edit
-
----
-
-Do you want me to **add this README.md directly into your zipped project** so it’s ready before you upload to GitHub? That way your repo will look clean immediately.
-
-
-
-
-
-
-
-
-Ask ChatGPT
